@@ -105,6 +105,13 @@
     "description": "Django is a free and open-source, Python-based web framework that follows the model-template-views architectural pattern."
   },
   {
+    "name": "TypeScript",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "TypeScript is a free and open source high-level programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. It is designed for the development of large applications and transpiles to JavaScript."
+  },
+  {
     "name": "Keycloak",
     "ring": "trial",
     "quadrant": "languages & frameworks",
