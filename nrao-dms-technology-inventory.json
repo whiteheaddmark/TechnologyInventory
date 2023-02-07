@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Sonarqube",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs and code smells on 29 programming languages."
+  },
+  {
+    "name": "Postgresql",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance."
+  },
+  {
+    "name": "Alembic",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Alembic is a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python."
+  },
+  {
+    "name": "Prometheus",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud."
+  },
+  {
+    "name": "Grafana",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Grafana is a multi-platform open source analytics and interactive visualization web application."
+  },
+  {
+    "name": "Docker",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers."
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management."
+  },
+  {
+    "name": "OpenTelemetry",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "OpenTelemetry is a collection of tools, APIs, and SDKs. Use it to instrument, generate, collect, and export telemetry data (metrics, logs, and traces) to help you analyze your software’s performance and behavior. It covers the three pillars of observability — distributed tracing, metrics and logging (currently in beta) — and its specification connects these three pieces through correlations; thus you can use metrics to pinpoint a problem, locate the corresponding traces to discover where the problem occured, and ultimately study the corresponding logs to find the exact root cause."
+  },
+  {
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Python is a high-level, general-purpose programming language."
+  },
+  {
+    "name": "Java",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+  },
+  {
+    "name": "C/C++",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "C++ is a high-level general-purpose programming language as an extension of the C programming language."
+  },
+  {
+    "name": "ZeroMQ",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "ZeroMQ is an asynchronous messaging library, aimed at use in distributed or concurrent applications. It provides a message queue, but unlike message-oriented middleware, a ZeroMQ system can run without a dedicated message broker; the zero in the name is for zero broker."
+  },
+  {
+    "name": "Angular",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations."
+  },
+  {
+    "name": "React",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality."
+  },
+  {
+    "name": "Django",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Django is a free and open-source, Python-based web framework that follows the model-template-views architectural pattern."
+  },
+  {
+    "name": "Keycloak",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Keycloak is an open source software product to allow single sign-on with Identity and Access Management aimed at modern applications and services."
+  },
+  {
+    "name": "Dask",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Dask is a flexible open-source Python library for parallel computing. Dask scales Python code from multi-core local machines to large distributed clusters in the cloud. Dask provides a familiar user interface by mirroring the APIs of other libraries in the PyData ecosystem"
+  },
+  {
+    "name": "HTCondor",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "HTCondor is an open-source high-throughput computing software framework for coarse-grained distributed parallelization of computationally intensive tasks. It can be used to manage workload on a dedicated cluster of computers, or to farm out work to idle desktop computers."
+  },
+  {
+    "name": "Bokeh",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Bokeh is a Python library for creating interactive visualizations for modern web browsers."
+  },
+  {
+    "name": "FastAPI",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "FastAPI is a Web framework for developing RESTful APIs in Python"
+  },
+  {
+    "name": "RHEL 8",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "NRAO Standard operating system"
+  },
+  {
+    "name": "NGAS",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Next Generation Archive Management System"
+  },
+  {
+    "name": "Lustre",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Lustre is a type of parallel distributed file system, generally used for large-scale cluster computing. "
+  },
+  {
+    "name": "RHEL 9",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "NRAO Standard operating system"
+  },
+  {
+    "name": "Attribute-driven Design",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Attribute-driven design is a methodology to create software architectures that takes into account the quality attributes of the software."
+  },
+  {
+    "name": "Domain-Driven Design",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "DDD is a major software design approach focusing on modeling software to match a domain according to input from that domain's experts."
+  },
+  {
+    "name": "Single-page Application",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "A single-page application is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages."
+  },
+  {
+    "name": "DevOps",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality."
+  },
+  {
+    "name": "SRE",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Site reliability engineering (SRE) is a set of principles and practices that incorporates aspects of software engineering and applies them to IT infrastructure and operations.[1] The main objectives are to create highly reliable and scalable software systems. Site reliability engineering has been described as a specific implementation of DevOps.."
+  },
+  {
+    "name": "Self-contained systems with microservices",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Self-Contained Systems (SCS) with microservices is an architecture style focusing on separation of functionality into many independent sub-systems and making products a collaboration of such software sub-systems. This avoids the problem of large monoliths that grow constantly and eventually become unmaintainable. This architecture style combines the benefits of monolithic patterns as well as microservice patterns and keeps the potential complexity of a pure microservice architecture under control."
+  }
+]
