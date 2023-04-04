@@ -12,7 +12,7 @@ Quadrants represent different kinds of blips:
 * Techniques - Elements of software development and ways of structuring software (e.g. microservices).
  
 ## Rings
-Rings inidicate the adoption lifecycle stage a blip should be in:
+Rings indicate the adoption lifecycle stage a blip should be in:
 * Adopt - Use these items in DMS products.
 * Trial - Target for adoption and can be evaluated in suitable projects.
 * Assess - Evaluate to understand how it works and determine usefulness for DMS strategic goals. 

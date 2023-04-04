@@ -21,6 +21,13 @@
     "description": "Alembic is a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python."
   },
   {
+    "name": "Nix",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Nix is a cross-platform package manager that utilizes a purely functional deployment model where software is installed into unique directories generated through cryptographic hashes. It is also the name of the tool's programming language. A package's hash takes into account the dependencies, which is claimed to eliminate dependency hell,[2] as an alternative to the typical solution of installing multiple versions of dependencies at the same time. This package management model advertises more reliable, reproducible, and portable packages."
+  },
+  {
     "name": "Prometheus",
     "ring": "trial",
     "quadrant": "tools",
@@ -40,6 +47,13 @@
     "quadrant": "tools",
     "isNew": "FALSE",
     "description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers."
+  },
+  {
+    "name": "Singularity",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Singularity is a free and open-source computer program that performs operating-system-level virtualization also known as containerization. One of the main uses of Singularity is to bring containers and reproducibility to scientific computing and the high-performance computing world."
   },
   {
     "name": "Kubernetes",
